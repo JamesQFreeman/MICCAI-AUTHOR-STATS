@@ -22,6 +22,6 @@
 
 ### 结果
 
-![聚类结果](C:\Users\Wang_\OneDrive - business\Fun\stat\MICCAI-AUTHOR-STATS\final.jpg)
+![聚类结果](final.jpg)
 
 红色的是北卡教堂山沈定刚教授组的，可以看出算法的有效性，周围的人基本都（曾经）是他那个组的。
